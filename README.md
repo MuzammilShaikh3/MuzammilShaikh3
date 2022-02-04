@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MuzammilShaikh3
-- 👀 I’m interested in Unreal Engine 
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me muzammilshaikhmohammed@gmail.com
 
 <!---
