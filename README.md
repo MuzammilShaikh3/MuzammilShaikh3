@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @saloneyp
+- 👋 Hi, I’m @MuzamilShaikh3
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning python
-- 📫 How to reach me saloneyp@gmail.com
+- 📫 How to reach me muzammilshaikhmohammed@gmail.com
 
-<!---
+
